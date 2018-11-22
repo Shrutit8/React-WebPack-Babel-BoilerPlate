@@ -3,17 +3,13 @@ Extensible and easy to implement React-Webpack-Babel boilerplate.
 There are many boilerplates available for React Webpack which can be complex and difficult to understand for a beginner. So here is my approach on React boilerplate which is minimalistic and which can be extended with little effort. 
 It is a light dev environment setup.  :ghost: :+1:
 
+[](https://github.com/Shrutit8/React-WebPack-Babel-BoilerPlate/blob/master/src/img/ReactBP.png)
 
 # Table of contents
 
 ## Usage
-
 ## Project structure
-
 ## Installation
-
-## Configuration
-
 ## Technologies used
 
 
@@ -50,13 +46,17 @@ Install the dependencies from package.json and start the server.
 - Linting can be extended in the given boilerplate by installing or yarn add ESlint packages
 
 
-## Configuration
-
 ### Technologies used
 [React] (https://reactjs.org/)
+
 [Webpack 4] (https://webpack.js.org/)
+
 [Babel] (https://babeljs.io/)
+
 Babel Loader
+
 Style & CSS Loader
+
 Webpack dev Server
+
 [Yarn] (https://yarnpkg.com/en/)
