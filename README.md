@@ -37,7 +37,7 @@ src/
 ## Installation
 - Clone the boilerplate repo
 
-git clone git@github.com:Shrutit8/webpack-react-boilerplate.git
+`git clone https://github.com/Shrutit8/React-WebPack-Babel-BoilerPlate.git`
 
 Install the dependencies from package.json and start the server.
   ```
@@ -56,9 +56,18 @@ Install the dependencies from package.json and start the server.
 
 ### Technologies used
 ![React] (https://reactjs.org/)
+
 ![Webpack 4] (https://webpack.js.org/)
+
 ![Babel] (https://babeljs.io/)
+
 Babel Loader
+
 Style & CSS Loader
+
 Webpack dev Server
+
 ![Yarn] (https://yarnpkg.com/en/)
+
+## License
+MIT
