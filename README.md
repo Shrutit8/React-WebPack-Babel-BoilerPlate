@@ -1,25 +1,27 @@
 # React-WebPack 4-Babel 7-BoilerPlate
 Extensible and easy to implement React-Webpack-Babel boilerplate.
-A minimal and light dev environment for ReactJS.
+There are many boilerplates available for React Webpack which can be complex and difficult to understand for a beginner. So here is my approach on React boilerplate which is minimalistic and which can be extended with little effort. 
+It is a light dev environment setup.  :ghost: :+1:
 
 
-Table of contents
+# Table of contents
 
-Usage
+## Usage
 
-Project structure
+## Project structure
 
-Installation
+## Installation
 
-Configuration
+## Configuration
 
-Technologies used
+## Technologies used
 
-Usage
-Usage
-Clone the boilerplate and create your own git repo.
 
-Project structure
+## Usage
+Clone the boilerplate and create your own 'git' repo.
+
+
+## Project structure
 
 src/
 |  |- components/
@@ -30,29 +32,31 @@ src/
 |  index.js
 
   
-Installation
-1- Clone the boilerplate repo
+## Installation
+- Clone the boilerplate repo
 
 git clone git@github.com:Shrutit8/webpack-react-boilerplate.git
 
-2- yarn or npm install to install npm packages
+Install the dependencies from package.json and start the server.
+  ```
+  npm install yarn
+  yarn add [package-name]
+  
+  ```  
 
-Install the dependencies and start the server.
+- Start dev server using `yarn start` or npm start. Open [http://localhost:8081/](http://localhost:8081/)
+  Build and bundle your resources for production yarn build.
 
-3- start dev server using yarn start or npm start. Open http://localhost:3000
-
-3- build and bundling your resources for production yarn build.
-
-4. Linting can be extended in the given boilerplate by installing or yarn add ESlint packages
+- Linting can be extended in the given boilerplate by installing or yarn add ESlint packages
 
 
-Configuration
+## Configuration
 
-Technologies used
-Webpack 4
-Babel 7 [ transforming JSX and ES6,ES7,ES8 ]
+### Technologies used
+[React] (https://reactjs.org/)
+[Webpack 4] (https://webpack.js.org/)
+[Babel] (https://babeljs.io/)
 Babel Loader
-React 16.5
 Style & CSS Loader
 Webpack dev Server
-Yarn
+[Yarn] (https://yarnpkg.com/en/)
