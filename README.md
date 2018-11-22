@@ -8,33 +8,35 @@ It is a light dev environment setup.  :ghost: :+1:
 
 # Table of contents
 
-## Usage
+### Usage
 
-## Project structure
+### Project structure
 
-## Installation
+### Installation
 
-## Configuration
-
-## Technologies used
+### Technologies used
 
 
-## Usage
+### Usage
 Clone the boilerplate and create your own 'git' repo.
 
 
-## Project structure
+### Project structure
 
-src/
-|  |- components/
-|     |- App.js _______________________ # Sample component
-|  |- img/
-|  |- styles/
-|  index.html
-|  index.js
+```
+│       
+└───src
+    ├───components
+    ├───img
+    └───styles
 
-  
-## Installation
+```
+- src : the source folder to include all the new development files
+- components:contains all the React Components. Here for starters `App.js` is created. 
+- img: image folder
+- styles: Contains all the CSS/SASS/LESS files. For simplicity only CSS styles are shown.
+
+### Installation
 - Clone the boilerplate repo
 
 `git clone https://github.com/Shrutit8/React-WebPack-Babel-BoilerPlate.git`
@@ -52,14 +54,12 @@ Install the dependencies from package.json and start the server.
 - Linting can be extended in the given boilerplate by installing or yarn add ESlint packages
 
 
-## Configuration
-
 ### Technologies used
-![React] (https://reactjs.org/)
+[React] (https://reactjs.org/)
 
-![Webpack 4] (https://webpack.js.org/)
+[Webpack 4] (https://webpack.js.org/)
 
-![Babel] (https://babeljs.io/)
+[Babel] (https://babeljs.io/)
 
 Babel Loader
 
@@ -67,7 +67,7 @@ Style & CSS Loader
 
 Webpack dev Server
 
-![Yarn] (https://yarnpkg.com/en/)
+[Yarn] (https://yarnpkg.com/en/)
 
-## License
+### License
 MIT
