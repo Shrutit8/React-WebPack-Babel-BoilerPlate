@@ -55,18 +55,13 @@ Install the dependencies from package.json and start the server.
 
 
 ### Technologies used
+
 [React](https://reactjs.org/)
-
 [Webpack 4](https://webpack.js.org/)
-
 [Babel](https://babeljs.io/)
-
 Babel Loader
-
 Style & CSS Loader
-
 Webpack dev Server
-
 [Yarn](https://yarnpkg.com/en/)
 
 ### License
